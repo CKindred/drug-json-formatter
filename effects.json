@@ -1,0 +1,669 @@
+{
+    "data": {
+      "effects": [
+        {
+          "name": "8A Geometry - Perceived exposure to semantic concept network"
+        },
+        {
+          "name": "8B Geometry - Perceived exposure to inner mechanics of consciousness"
+        },
+        {
+          "name": "Abnormal heartbeat"
+        },
+        {
+          "name": "Acuity enhancement"
+        },
+        {
+          "name": "Acuity suppression"
+        },
+        {
+          "name": "Addiction suppression"
+        },
+        {
+          "name": "After images"
+        },
+        {
+          "name": "Amnesia"
+        },
+        {
+          "name": "Analysis enhancement"
+        },
+        {
+          "name": "Analysis suppression"
+        },
+        {
+          "name": "Anxiety"
+        },
+        {
+          "name": "Anxiety suppression"
+        },
+        {
+          "name": "Appetite enhancement"
+        },
+        {
+          "name": "Appetite suppression"
+        },
+        {
+          "name": "Auditory distortion"
+        },
+        {
+          "name": "Auditory enhancement"
+        },
+        {
+          "name": "Auditory hallucination"
+        },
+        {
+          "name": "Auditory suppression"
+        },
+        {
+          "name": "Autonomous entity"
+        },
+        {
+          "name": "Autonomous voice communication"
+        },
+        {
+          "name": "Back pain"
+        },
+        {
+          "name": "Bodily control enhancement"
+        },
+        {
+          "name": "Bodily pressures"
+        },
+        {
+          "name": "Body odor alteration"
+        },
+        {
+          "name": "Brain zaps"
+        },
+        {
+          "name": "Brightness alteration"
+        },
+        {
+          "name": "Bronchodilation"
+        },
+        {
+          "name": "Catharsis"
+        },
+        {
+          "name": "Changes in felt bodily form"
+        },
+        {
+          "name": "Changes in felt gravity"
+        },
+        {
+          "name": "Cognitive disconnection"
+        },
+        {
+          "name": "Cognitive dysphoria"
+        },
+        {
+          "name": "Cognitive euphoria"
+        },
+        {
+          "name": "Cognitive fatigue"
+        },
+        {
+          "name": "Colour enhancement"
+        },
+        {
+          "name": "Colour replacement"
+        },
+        {
+          "name": "Colour shifting"
+        },
+        {
+          "name": "Colour suppression"
+        },
+        {
+          "name": "Colour tinting"
+        },
+        {
+          "name": "Component controllability"
+        },
+        {
+          "name": "Compulsive redosing"
+        },
+        {
+          "name": "Conceptual thinking"
+        },
+        {
+          "name": "Confusion"
+        },
+        {
+          "name": "Constipation"
+        },
+        {
+          "name": "Cough suppression"
+        },
+        {
+          "name": "Creativity enhancement"
+        },
+        {
+          "name": "Creativity suppression"
+        },
+        {
+          "name": "Decreased blood pressure"
+        },
+        {
+          "name": "Decreased heart rate"
+        },
+        {
+          "name": "Decreased libido"
+        },
+        {
+          "name": "Dehydration"
+        },
+        {
+          "name": "Delirium"
+        },
+        {
+          "name": "Delirium tremens"
+        },
+        {
+          "name": "Delusion"
+        },
+        {
+          "name": "Depersonalization"
+        },
+        {
+          "name": "Depression"
+        },
+        {
+          "name": "Depth perception distortions"
+        },
+        {
+          "name": "Derealization"
+        },
+        {
+          "name": "Detachment plateaus"
+        },
+        {
+          "name": "Diarrhea"
+        },
+        {
+          "name": "Difficulty urinating"
+        },
+        {
+          "name": "Diffraction"
+        },
+        {
+          "name": "Disinhibition"
+        },
+        {
+          "name": "Dizziness"
+        },
+        {
+          "name": "Dosage independent intensity"
+        },
+        {
+          "name": "Double vision"
+        },
+        {
+          "name": "Dream potentiation"
+        },
+        {
+          "name": "Dream suppression"
+        },
+        {
+          "name": "Drifting"
+        },
+        {
+          "name": "Dry mouth"
+        },
+        {
+          "name": "Déjà vu"
+        },
+        {
+          "name": "Ego inflation"
+        },
+        {
+          "name": "Ego replacement"
+        },
+        {
+          "name": "Emotion enhancement"
+        },
+        {
+          "name": "Emotion suppression"
+        },
+        {
+          "name": "Empathy, affection and sociability enhancement"
+        },
+        {
+          "name": "Enhancement and suppression cycles"
+        },
+        {
+          "name": "Environmental cubism"
+        },
+        {
+          "name": "Environmental orbism"
+        },
+        {
+          "name": "Environmental patterning"
+        },
+        {
+          "name": "Excessive yawning"
+        },
+        {
+          "name": "Existential self-realization"
+        },
+        {
+          "name": "External hallucination"
+        },
+        {
+          "name": "Feelings of impending doom"
+        },
+        {
+          "name": "Focus enhancement"
+        },
+        {
+          "name": "Focus suppression"
+        },
+        {
+          "name": "Frame rate enhancement"
+        },
+        {
+          "name": "Frame rate suppression"
+        },
+        {
+          "name": "Frequent urination"
+        },
+        {
+          "name": "Gait alteration"
+        },
+        {
+          "name": "Geometry"
+        },
+        {
+          "name": "Glossolalia"
+        },
+        {
+          "name": "Gustatory enhancement"
+        },
+        {
+          "name": "Gustatory hallucination"
+        },
+        {
+          "name": "Gustatory suppression"
+        },
+        {
+          "name": "Headache"
+        },
+        {
+          "name": "Identity alteration"
+        },
+        {
+          "name": "Immersion enhancement"
+        },
+        {
+          "name": "Increased blood pressure"
+        },
+        {
+          "name": "Increased bodily temperature"
+        },
+        {
+          "name": "Increased heart rate"
+        },
+        {
+          "name": "Increased libido"
+        },
+        {
+          "name": "Increased music appreciation"
+        },
+        {
+          "name": "Increased perspiration"
+        },
+        {
+          "name": "Increased phlegm production"
+        },
+        {
+          "name": "Increased salivation"
+        },
+        {
+          "name": "Increased sense of humor"
+        },
+        {
+          "name": "Internal hallucination"
+        },
+        {
+          "name": "Introspection"
+        },
+        {
+          "name": "Irritability"
+        },
+        {
+          "name": "Itchiness"
+        },
+        {
+          "name": "Language suppression"
+        },
+        {
+          "name": "Laughter fits"
+        },
+        {
+          "name": "Machinescapes"
+        },
+        {
+          "name": "Magnification"
+        },
+        {
+          "name": "Mania"
+        },
+        {
+          "name": "Memory enhancement"
+        },
+        {
+          "name": "Memory replays"
+        },
+        {
+          "name": "Memory suppression"
+        },
+        {
+          "name": "Mindfulness"
+        },
+        {
+          "name": "Motivation enhancement"
+        },
+        {
+          "name": "Motivation suppression"
+        },
+        {
+          "name": "Motor control loss"
+        },
+        {
+          "name": "Mouth numbing"
+        },
+        {
+          "name": "Multiple thought streams"
+        },
+        {
+          "name": "Muscle contractions"
+        },
+        {
+          "name": "Muscle cramp"
+        },
+        {
+          "name": "Muscle relaxation"
+        },
+        {
+          "name": "Muscle tension"
+        },
+        {
+          "name": "Muscle twitching"
+        },
+        {
+          "name": "Nausea"
+        },
+        {
+          "name": "Nausea suppression"
+        },
+        {
+          "name": "Novelty enhancement"
+        },
+        {
+          "name": "Object activation"
+        },
+        {
+          "name": "Object alteration"
+        },
+        {
+          "name": "Olfactory enhancement"
+        },
+        {
+          "name": "Olfactory hallucination"
+        },
+        {
+          "name": "Olfactory suppression"
+        },
+        {
+          "name": "Optical sliding"
+        },
+        {
+          "name": "Orgasm suppression"
+        },
+        {
+          "name": "Pain relief"
+        },
+        {
+          "name": "Panic attack"
+        },
+        {
+          "name": "Paranoia"
+        },
+        {
+          "name": "Pattern recognition enhancement"
+        },
+        {
+          "name": "Pattern recognition suppression"
+        },
+        {
+          "name": "Perceived exposure to inner mechanics of consciousness"
+        },
+        {
+          "name": "Perception of bodily heaviness"
+        },
+        {
+          "name": "Perception of bodily lightness"
+        },
+        {
+          "name": "Perception of eternalism"
+        },
+        {
+          "name": "Perception of interdependent opposites"
+        },
+        {
+          "name": "Perception of predeterminism"
+        },
+        {
+          "name": "Perception of self-design"
+        },
+        {
+          "name": "Peripheral information misinterpretation"
+        },
+        {
+          "name": "Personal bias suppression"
+        },
+        {
+          "name": "Personal meaning enhancement"
+        },
+        {
+          "name": "Personality regression"
+        },
+        {
+          "name": "Perspective distortion"
+        },
+        {
+          "name": "Perspective hallucination"
+        },
+        {
+          "name": "Photophobia"
+        },
+        {
+          "name": "Physical autonomy"
+        },
+        {
+          "name": "Physical disconnection"
+        },
+        {
+          "name": "Physical euphoria"
+        },
+        {
+          "name": "Physical fatigue"
+        },
+        {
+          "name": "Psychosis"
+        },
+        {
+          "name": "Pupil constriction"
+        },
+        {
+          "name": "Pupil dilation"
+        },
+        {
+          "name": "Recursion"
+        },
+        {
+          "name": "Rejuvenation"
+        },
+        {
+          "name": "Respiratory depression"
+        },
+        {
+          "name": "Restless legs"
+        },
+        {
+          "name": "Runny nose"
+        },
+        {
+          "name": "Scenarios and plots"
+        },
+        {
+          "name": "Scenery slicing"
+        },
+        {
+          "name": "Sedation"
+        },
+        {
+          "name": "Seizure"
+        },
+        {
+          "name": "Seizure suppression"
+        },
+        {
+          "name": "Settings, sceneries, and landscapes"
+        },
+        {
+          "name": "Shadow people"
+        },
+        {
+          "name": "Simultaneous emotions"
+        },
+        {
+          "name": "Skin flushing"
+        },
+        {
+          "name": "Sleepiness"
+        },
+        {
+          "name": "Spatial disorientation"
+        },
+        {
+          "name": "Spirituality enhancement"
+        },
+        {
+          "name": "Spontaneous bodily sensations"
+        },
+        {
+          "name": "Spontaneous physical movements"
+        },
+        {
+          "name": "Stamina enhancement"
+        },
+        {
+          "name": "Stimulation"
+        },
+        {
+          "name": "Stomach bloating"
+        },
+        {
+          "name": "Stomach cramp"
+        },
+        {
+          "name": "Suggestibility enhancement"
+        },
+        {
+          "name": "Suggestibility suppression"
+        },
+        {
+          "name": "Suicidal ideation"
+        },
+        {
+          "name": "Symmetrical texture repetition"
+        },
+        {
+          "name": "Synaesthesia"
+        },
+        {
+          "name": "Tactile enhancement"
+        },
+        {
+          "name": "Tactile hallucination"
+        },
+        {
+          "name": "Tactile suppression"
+        },
+        {
+          "name": "Teeth grinding"
+        },
+        {
+          "name": "Temperature regulation suppression"
+        },
+        {
+          "name": "Temporary erectile dysfunction"
+        },
+        {
+          "name": "Texture liquidation"
+        },
+        {
+          "name": "Thought acceleration"
+        },
+        {
+          "name": "Thought connectivity"
+        },
+        {
+          "name": "Thought deceleration"
+        },
+        {
+          "name": "Thought disorganization"
+        },
+        {
+          "name": "Thought loop"
+        },
+        {
+          "name": "Thought organization"
+        },
+        {
+          "name": "Time distortion"
+        },
+        {
+          "name": "Tracers"
+        },
+        {
+          "name": "Transformations"
+        },
+        {
+          "name": "Unity and interconnectedness"
+        },
+        {
+          "name": "Unspeakable horrors"
+        },
+        {
+          "name": "Vasoconstriction"
+        },
+        {
+          "name": "Vasodilation"
+        },
+        {
+          "name": "Vibrating vision"
+        },
+        {
+          "name": "Visual disconnection"
+        },
+        {
+          "name": "Visual flipping"
+        },
+        {
+          "name": "Visual haze"
+        },
+        {
+          "name": "Visual stretching"
+        },
+        {
+          "name": "Wakefulness"
+        },
+        {
+          "name": "Watery eyes"
+        }
+      ]
+    }
+  }
